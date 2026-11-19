@@ -1,5 +1,4 @@
 # LainGram
-ru_version
 LainGram — модифицированный Telegram-клиент для Android, объединяющий расширенные возможности NagramXF и дополнительные функции exteraless с собственными улучшениями и изменениями интерфейса.
 
 ### Возможности
@@ -26,7 +25,6 @@ LainGram создаётся с упором на функциональност�
 
 Проект не является официальным продуктом Telegram.
 
-eng_version
 LainGram is a modified Telegram client for Android, combining the extended capabilities of NagramXF with additional features from exteraless, alongside its own improvements and interface customizations.
 
 ### Features
