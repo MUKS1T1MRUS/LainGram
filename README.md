@@ -20,8 +20,6 @@ LainGram создаётся с упором на функциональност�
 
 Это не попытка создать ещё одну копию Telegram, а стремление собрать клиент, в котором пользователь сам определяет, каким должен быть его мессенджер.
 
-**LainGram — See you in the Wired.**
-
 ### Основа проекта
 
 - NagramXF
@@ -49,8 +47,6 @@ LainGram is a modified Telegram client for Android, combining the extended capab
 LainGram is built around functionality, flexibility, and freedom of customization. It combines proven solutions from existing open-source clients with original development and improvements.
 
 The goal isn't to create yet another Telegram clone, but to build a client where users have greater control over their messaging experience.
-
-**LainGram — See you in the Wired.**
 
 ### Project Base
 
